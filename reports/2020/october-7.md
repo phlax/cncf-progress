@@ -3,7 +3,7 @@
 
 - shellcheck
   - complete linting
-    - envoyproxy/envoy#13169
+    - https://github.com/envoyproxy/envoy/pull/13169
     - envoyproxy/envoy#13106
   - update shellcheck
 
@@ -19,7 +19,7 @@
     - automate example config ci
       - envoyproxy/envoy#13202
     - update sandbox dev docs
-      -
+
   - mac fix
     - envoyproxy/envoy#13348
 
